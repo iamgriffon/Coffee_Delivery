@@ -35,19 +35,3 @@
 
 ##
 
-```bash
-
-#Clone este repositório
-$ git clone https://github.com/JoaoPedroVicentin/Coffee_Delivery.git
-
-#Acesse a pasta do projeto
-$ cd Coffee-Delivery
-
-#Instale as dependências
-$ npm i
-
-#Execute a aplicação em modo de desenvolvimento
-$ npm run dev
-```
-
-##
