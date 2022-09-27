@@ -51,5 +51,3 @@ $ npm run dev
 ```
 
 ##
-
-<p> Feito por João Pedro Vicentin | <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-vicentin/">Linkedin</a> </p>
